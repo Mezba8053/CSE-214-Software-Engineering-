@@ -1,0 +1,20 @@
+SuperCombo
+Add Combo1
+Add Combo2
+Add Burger
+Remove Combo1
+Free Wedges
+Discount 5
+Done
+
+
+S
+Add SuperCombo
+Add Combo1
+Add Combo2
+Add Burger
+Remove Combo1
+Add Drink
+Free Wedges
+Discount 10
+Done
